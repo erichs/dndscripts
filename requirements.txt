@@ -1,0 +1,6 @@
+
+Pillow==9.0.1  # For image processing with PIL
+reportlab==3.6.1  # For PDF generation
+pdfminer.six==20231228 # For PDF parsing
+requests==2.28.2 # for HTTP requests
+openai==1.11.1
