@@ -10,6 +10,8 @@ This project builds a local docker image that can be used to run several D&D-rel
 
 ### Generating Images for an Adventurer's League PDF
 
+![ALPDF-to-TokenPDF](https://theparchmentpaladin.com/img/2gU3aDmxIL-550.avif)
+
 1. `mkdir DDAL && cd DDAL`	
 2. Download your AL PDF, many can be found on [DMsGuild](https://www.dmsguild.com/browse.php?filters=45470_0_0_0_0_0_0_0&src=fid45470). Save it in the DDAL dir. Let's say it is `DDAL-FOO-7.pdf`
 3. export OPENAI_API_KEY=<sk-your-api-key...>
